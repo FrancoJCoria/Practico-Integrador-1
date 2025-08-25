@@ -19,6 +19,7 @@ public class EjercicioIntegradorRepaso {
         Scanner consola = new Scanner(System.in);
         try {
 
+            //AGREGO un comentario
             //Punto 1
             int velocidad;
             int cola;
